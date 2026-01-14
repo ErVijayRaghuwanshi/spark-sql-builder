@@ -2,7 +2,7 @@ import Home from "./components/Home"
 import App_v1 from "./components/App_v1";
 import App_v2 from "./components/App_v2";
 import App_v3 from "./components/App_v3";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter} from "react-router-dom";
 
 
 function App() {
